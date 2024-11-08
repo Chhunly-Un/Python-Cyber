@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+}
+.Container{
+    
+}
+.block1{
+    background-color: rgb(243, 221, 188);
+    flex: 1;
+}
+.block2{
+    background-color: white;
+    flex: 2;
+}
